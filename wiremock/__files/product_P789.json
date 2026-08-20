@@ -1,0 +1,20 @@
+{
+    "materials": [
+        {
+            "id": "PLASTIC",
+            "weightInGram": 500
+        },
+        {
+            "id": "FABRIC",
+            "weightInGram": 250
+        },
+        {
+            "id": "RUBBER",
+            "weightInGram": 100
+        },
+        {
+            "id": "GLASS",
+            "weightInGram": 300
+        }
+    ]
+}

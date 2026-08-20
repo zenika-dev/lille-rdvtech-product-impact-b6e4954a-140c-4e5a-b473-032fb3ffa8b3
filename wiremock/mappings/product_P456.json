@@ -1,0 +1,18 @@
+{
+    "request": {
+        "method": "GET",
+        "urlPath": "/products/P456/composition"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "delayDistribution": {
+            "type": "uniform",
+            "lower": 1500,
+            "upper": 2500
+        },
+        "bodyFileName": "product_P456.json"
+    }
+}

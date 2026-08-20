@@ -1,0 +1,12 @@
+{
+    "materials": [
+        {
+            "id": "STEEL",
+            "weightInGram": 1200
+        },
+        {
+            "id": "WOOD",
+            "weightInGram": 700
+        }
+    ]
+}
